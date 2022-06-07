@@ -34,7 +34,6 @@ function dataForms() {
     console.log('error');
   }
 }
-formsDataCompleted();
 
 function onFormSubmit(event) {
   event.preventDefault();
